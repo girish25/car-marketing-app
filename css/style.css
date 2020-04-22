@@ -1,0 +1,6 @@
+.img-cover{    width: 250px;
+    height: 250px; border-radius: 50%; overflow: hidden; margin: 0 auto;} 
+.img-cover img{width: 363px; margin-left: -41px; margin-top: -18px;}
+.top-content{text-align: center; font-family: arial;}
+.top-content h1{margin: 20px 0 0; color: #3f7fad; font-size: 40px;}
+.top-content p{line-height: 24px;font-size: 15px;color: #333;}
